@@ -140,12 +140,6 @@ Run the bank simulator:
 ```bash
 docker compose up
 
-Run the API:
-
-```bash
 dotnet run
 
-Run tests:
-
-```bash
 dotnet test
